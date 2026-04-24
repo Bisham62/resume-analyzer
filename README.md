@@ -43,7 +43,7 @@ This project uses NLP techniques and semantic similarity to provide a more intel
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/resume-analyzer.git
+   git clone https://github.com/Bisham62/resume-analyzer.git
 
 2. Navigate into the project folder:
    cd resume-analyzer
