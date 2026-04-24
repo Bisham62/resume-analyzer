@@ -40,6 +40,25 @@ This project uses NLP techniques and semantic similarity to provide a more intel
 
 ---
 
+## How to Run
+
+1. Clone the repository:
+   git clone https://github.com/YOUR_USERNAME/resume-analyzer.git
+
+2. Navigate into the project folder:
+   cd resume-analyzer
+
+3. Install required libraries:
+   pip install -r requirements.txt
+
+4. Run the application:
+   streamlit run app/app.py
+
+5. Open your browser at:
+   http://localhost:8501
+
+---
+   
 ## Example Output
 - Match Score: 65%
 - Matched Skills: Python, React
